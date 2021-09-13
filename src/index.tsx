@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useMemo, FunctionComponent } from 'react';
 import fetchJsFromCDN from 'fetch-js-from-cdn';
-import './deps/aliplayercomponents-1.0.5.min.js';
+import './deps/aliplayercomponents-1.0.6.min.js';
 import './index.css';
 
 const SOURCE_URL = 'https://g.alicdn.com/de/prismplayer/2.9.3/aliplayer-min.js';
