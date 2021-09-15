@@ -2,7 +2,7 @@
 
 React component wrapper for [aliplayer](https://player.alicdn.com).
 
-Current version: 2.8.2 with additional components built by [aliplayer-components] (https://github.com/aliyunvideo/AliyunPlayer_Web)
+Current version: 2.8.2 with additional components built by [aliplayer-components](https://github.com/aliyunvideo/AliyunPlayer_Web).
 
 ## Installation
 
