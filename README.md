@@ -17,7 +17,7 @@ npm i aliplayer-react-components-wrapper
 ```js
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
-import Player from "aliplayer-react";
+import Player from "aliplayer-react-components-wrapper";
 
 const config = {
 	source: "//player.alicdn.com/video/aliyunmedia.mp4",
