@@ -1,6 +1,6 @@
 {
 	"name": "aliplayer-react-components-wrapper",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "React component wrapper for aliplayer.",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
