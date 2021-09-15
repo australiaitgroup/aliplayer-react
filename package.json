@@ -1,6 +1,6 @@
 {
 	"name": "aliplayer-react-components-wrapper",
-	"version": "0.1.4",
+	"version": "0.7.0",
 	"description": "React component wrapper for aliplayer.",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
@@ -9,14 +9,13 @@
 		"prepare": "npm run build",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"repository": "git@github.com:australiaitgroup/AliyunPlayer_Web.git",
+	"repository": "git@github.com:australiaitgroup/aliplayer-react.git",
 	"keywords": [
 		"aliplayer",
 		"react",
 		"player",
 		"video"
 	],
-	"author": "terence<awstest135@gmail.com>",
 	"license": "MIT",
 	"private": false,
 	"devDependencies": {
