@@ -1,36 +1,36 @@
 {
-  "name": "aliplayer-react",
-  "version": "0.7.0",
-  "description": "React component wrapper for aliplayer.",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
-  "scripts": {
-    "build": "tsc && cpx \"src/**/*.css\" lib && cpx \"src/deps/*\" lib/deps",
-    "prepare": "npm run build",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": "git@github.com:wangsijie/aliplayer-react.git",
-  "keywords": [
-    "aliplayer",
-    "react",
-    "player",
-    "video"
-  ],
-  "author": "wangsijie <i@sijie.wang>",
-  "license": "MIT",
-  "private": false,
-  "devDependencies": {
-    "@babel/cli": "^7.6.4",
-    "@babel/core": "^7.6.4",
-    "@babel/preset-env": "^7.6.3",
-    "@babel/preset-react": "^7.6.3",
-    "@types/react": "^16.9.10",
-    "cpx": "^1.5.0",
-    "cross-env": "^6.0.3",
-    "react": "^16.11.0",
-    "typescript": "^3.6.4"
-  },
-  "dependencies": {
-    "fetch-js-from-cdn": "^0.2.0"
-  }
+	"name": "aliplayer-react-components-wrapper",
+	"version": "0.1.0",
+	"description": "React component wrapper for aliplayer.",
+	"main": "lib/index.js",
+	"types": "lib/index.d.ts",
+	"scripts": {
+		"build": "tsc && cpx \"src/**/*.css\" lib && cpx \"src/deps/*\" lib/deps",
+		"prepare": "npm run build",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": "git@github.com:australiaitgroup/AliyunPlayer_Web.git",
+	"keywords": [
+		"aliplayer",
+		"react",
+		"player",
+		"video"
+	],
+	"author": "terence<awstest135@gmail.com>",
+	"license": "MIT",
+	"private": false,
+	"devDependencies": {
+		"@babel/cli": "^7.6.4",
+		"@babel/core": "^7.6.4",
+		"@babel/preset-env": "^7.6.3",
+		"@babel/preset-react": "^7.6.3",
+		"@types/react": "^16.9.10",
+		"cpx": "^1.5.0",
+		"cross-env": "^6.0.3",
+		"react": "^16.11.0",
+		"typescript": "^3.6.4"
+	},
+	"dependencies": {
+		"fetch-js-from-cdn": "^0.2.0"
+	}
 }
